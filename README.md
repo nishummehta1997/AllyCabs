@@ -1,0 +1,2 @@
+# AllyCabs
+an application named “Ally Cabs” which I made alone on Android Studio using Firebase as Real Time database, Google Maps API, Google Direction API, Geofire and any more concepts related to Android. It is an Android app that has 2 logins. One is for customer and other is for drivers. Customer can book a cab when he needs and driver could see the location of customer and reach there, so both will get the benefit. 
